@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Cactus actuarial
+description: Hello! Nice to meet you.
 ---
 
 ## Welcome to another page
