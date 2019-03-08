@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cactus actuarial
-description: Actuarial tools for data visualization.
+description: Tools to handle actuarial data.
 ---
 
 ## Welcome to another page
