@@ -4,15 +4,15 @@ title: Cactus actuarial
 description: Cactus provides neat actuarial solutions.
 ---
 
-## Welcome to cactus actuarial
+## Welcome to Cactus actuarial
 
-Cactus provides tools to help with actuarial workload.
+Cactus provides tools to help with the actuarial workload.
 
 Areas of focus:
 * data analytics,
 * data visualiization,
-* modelling,
+* modelling.
 
-We are functioning in Solvency II and MCEV worlds.
+Regimes: Solvency II and MCEV 
 
-Technologies: R/R Shiny, SQL, Prophet.
+Technologies: R/R Shiny, SQL, Prophet

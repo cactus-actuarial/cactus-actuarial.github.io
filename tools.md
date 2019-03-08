@@ -4,8 +4,10 @@ title: Cactus actuarial
 description: Tools to handle actuarial data.
 ---
 
-## Welcome to another page
+## MPF visualizer
 
-_yay_
+**MPF visualizer** helps to understand the data within Model Point Files. It is built in R Shiny. It can be used for the files used within Prophet (i.e. files with "rpt" extension).
 
-[back](./)
+It allows to quickly visualize the distributions of variables within MPFs and provide basic statistics.
+
+
