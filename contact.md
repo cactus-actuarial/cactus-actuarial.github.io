@@ -4,8 +4,6 @@ title: Cactus actuarial
 description: Hello! Nice to meet you.
 ---
 
-## Welcome to another page
+## If you want to say hello
 
-_yay_
-
-[back](./)
+Write on: cactusactuarial [at] gmail.com
