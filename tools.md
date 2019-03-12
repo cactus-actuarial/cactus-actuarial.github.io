@@ -10,4 +10,4 @@ description: Tools to handle actuarial data.
 
 It allows to quickly visualize the distributions of variables within MPFs and see statistics.
 
-
+![MPF-visualizer](../img/screen-1.png)
