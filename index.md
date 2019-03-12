@@ -10,7 +10,7 @@ Cactus provides tools to help with the actuarial workload.
 
 Areas of focus:
 * data analytics,
-* data visualiization,
+* data visualization,
 * modelling.
 
 Regimes: Solvency II and MCEV 
