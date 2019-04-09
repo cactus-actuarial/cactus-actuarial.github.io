@@ -17,4 +17,4 @@ Regimes: Solvency II, MCEV
 
 Technologies: R/R Shiny, SQL, Prophet
 
-Currently, you can test out MPF visualizer - a tool to quickly explore data underneath Model Point Files. Take a look at [tools](./tools.html) or go straight to [demo](https://cactus-actuarial.shinyapps.io/mpf-vis-app-demo/).
+Currently, you can test out MPF visualizer - a tool to quickly explore data underneath Model Point Files. Take a look at [tools](./tools.html) or go straight to [demo](https://cactus-actuarial.shinyapps.io/mpf-vis).
