@@ -6,7 +6,9 @@ description: Tools to handle actuarial data.
 
 ## MPF visualizer
 
-You can **see [demo](https://cactus-actuarial.shinyapps.io/mpf-vis/)** of the application. You are **strongly** encourage to **use your own data** to discover the true power of data visualization.
+You can see [demo](https://cactus-actuarial.shinyapps.io/mpf-vis/) of the application. 
+
+You are **strongly** encouragec to **use your own data** to discover the true power of data visualization.
 
 Model Points are policy data used by actuaries for various valuations. They include information such as: age of policyholders, premium type or sum assured. 
 
