@@ -8,6 +8,8 @@ description: Cactus provides neat actuarial solutions.
 
 Cactus provides tools to help with the actuarial workload using simple and interactive approach.
 
+**Mission:** To present complex matters in a comprehensive way.
+
 Areas of focus:
 * data analytics,
 * data visualization,
